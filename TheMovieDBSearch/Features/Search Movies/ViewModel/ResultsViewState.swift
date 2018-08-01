@@ -11,7 +11,7 @@ import Foundation
 
 
 /// Index for State fo resultView that have tableview with 4 diffrent dataSource
-///
+/////
 /// - suggest: suggest Datasource index 0
 /// - loading: loading Datasource index 1
 /// - error: error Datasource index 2
