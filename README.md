@@ -3,7 +3,7 @@ The Movie DB Search
 
 
 # Prerequisites
-xcode 9.4 <br />
+xcode 9.3 <br />
 swift 4.x <br />
 IOS : 10 or above<br />
 
