@@ -17,5 +17,10 @@ This app additionally depends on following open source libraries.
 # Architecture
 The architecture of the app is MVVM (Model-View-ViewModel)  with outsourcing DataSource to make  ViewController more thin
 
+
+# ScreenShot
+
+![simulator screen shot - iphone x - 2018-08-01 at 03 34 37](https://user-images.githubusercontent.com/32923534/43496148-08a87686-953c-11e8-905c-d77e88d7f9c8.png)
+
 # Author
 Abdelahad Darwish
