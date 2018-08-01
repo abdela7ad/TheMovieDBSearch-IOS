@@ -13,13 +13,6 @@ This app additionally depends on following open source libraries.
 [Moya](https://github.com/Moya/Moya)-   Moya is an HTTP networking library written in Swift.<br />
 [Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 
-# DataBase:
-   Core Data
-   
-# File Structure
-   <img width="369" alt="screen shot 2018-08-01 at 4 02 51 am" src="https://user-images.githubusercontent.com/32923534/43496907-1286436e-9540-11e8-9975-ade11b32147b.png">  
-
-
 # Architecture
 The architecture of the app is MVVM (Model-View-ViewModel)  with outsourcing DataSource to make  ViewController more thin . we have two screen Search View and result view that is done UISearchViewController <br /><br />
 
