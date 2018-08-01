@@ -68,7 +68,7 @@ class ResultsViewModel {
   
     
     /// ResultViewSourceViewState   to manage stata and map to diffrent Data Source
-    var resultsViewState:ResultViewSourceViewState = .suggest([SuggestStorage]()) {
+    var resultsViewState:ResultViewDataSourceState = .suggest([SuggestStorage]()) {
         
         didSet {
             switch resultsViewState {

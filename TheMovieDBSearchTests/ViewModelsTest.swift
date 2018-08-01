@@ -17,7 +17,7 @@ class ViewModelsTest: XCTestCase {
     let persistance = CoreDataPersistance()
     let resultViewModel = ResultsViewModel()
     let searchViewModel = SearchMoviesViewModel()
-    let resultViewState =  ResultViewSourceViewState.suggest([SuggestStorage]())
+    let resultViewState =  ResultViewDataSourceState.suggest([SuggestStorage]())
     let selectedIndex =  State.suggest
 
     override func setUp() {

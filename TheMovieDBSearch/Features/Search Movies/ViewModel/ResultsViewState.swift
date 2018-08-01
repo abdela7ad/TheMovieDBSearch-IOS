@@ -34,7 +34,7 @@ enum State:Int{
 /// - loading: dataousrce in loading state
 /// - loadingMore: loading more state   Bool indicate to refresh or  no more message
 
-enum ResultViewSourceViewState {
+enum ResultViewDataSourceState {
     case results([MovieDisplayable])
     case suggest([SuggestStorage])
     case error (SearchMoviesError)
