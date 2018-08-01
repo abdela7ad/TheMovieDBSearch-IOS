@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  TheMovieDBSearch
+
+  Created by Abdelahad on 7/29/18.
+  Copyright © 2018 Abdelahad. All rights reserved.
+*/
+"No_Connection"     = "الرجاء التحقق من اتصال الانترنت الخاص بك";
+"No_Search_Results" =  "لم يتم العثور على نتيجة حاول تغيير استعلام البحث";
+"Search_Movies" =  "بحث أفلام";
+"Search_Placeholder" =  "بحث";
+"Recent" =  "مؤخرا";

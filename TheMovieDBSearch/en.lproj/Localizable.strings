@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  TheMovieDBSearch
+
+  Created by Abdelahad on 7/29/18.
+  Copyright © 2018 Abdelahad. All rights reserved.
+*/
+
+
+ "No_Connection"     = "The Internet connection appears to be offline.";
+ "No_Search_Results" =  "No Result Found Try to change search Query";
+ "API_Expire"        =  "You have to check your subscription or update your app";
+ "Search_Movies"     =  "Search Movies";
+ "Search_Placeholder" =  "Search";
+ "Recent" =  "Recent";
+ "Unknown" =  "unknown";
+ "No_more_movie_to_display"     =  "No more movie to display";
