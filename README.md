@@ -10,8 +10,8 @@ IOS : 10 or above
 # Dependency
 This app additionally depends on following open source libraries.
 
-'Moya'-   Moya is an HTTP networking library written in Swift.
-'Kingfisher' - A lightweight, pure-Swift library for downloading and caching images from the web.
+[Moya](https://github.com/Moya/Moya)-   Moya is an HTTP networking library written in Swift.<br />
+[Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 
 
 # Architecture
