@@ -21,11 +21,10 @@ This app additionally depends on following open source libraries.
 
 
 # Architecture
-The architecture of the app is MVVM (Model-View-ViewModel)  with outsourcing DataSource to make  ViewController more thin as following<br /> . we have two screen Search View and result view that is done UISearchViewController <br /><br />
+The architecture of the app is MVVM (Model-View-ViewModel)  with outsourcing DataSource to make  ViewController more thin . we have two screen Search View and result view that is done UISearchViewController <br /><br />
 
- **SearchView** :  Display recent seach items and handel user input <br />
- **ResultView** :  Have 5 state (Display loading,Display suggest, Display result , Display Error , loading more) <br />
-    this done with **Segmented Datasource** and switch between them 
+ **SearchView** :  Display recent seach items and handel user input <br /><br />
+ **ResultView** :  Have 5 state (Display loading,Display suggest, Display result , Display Error , loading more).This done with     **Segmented Datasource** and switch between them <br /><br />
     
     /// Index for State fo resultView that have tableview with 4 diffrent dataSource
 
